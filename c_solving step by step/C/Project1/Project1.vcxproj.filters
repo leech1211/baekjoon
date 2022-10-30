@@ -159,5 +159,8 @@
     <ClCompile Include="2752.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2751%28더 빠른 정렬로 다시%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
